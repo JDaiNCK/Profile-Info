@@ -27,10 +27,10 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/JDaiNCK" target="_blank">
+  <a href="https://github.com/JDaiNCK777" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/exile-jd-29a4493a7/" target="_blank">
+  <a href="https://linkedin.com/in/jdainck" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
 </p>
